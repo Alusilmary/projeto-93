@@ -1,6 +1,6 @@
 // Crie a variável canvas
 
-var canvas = new fabric.canvas("myCanvas")
+var canvas = new fabric.Canvas("myCanvas")
 
 block_y=1;
 block_x=1;
